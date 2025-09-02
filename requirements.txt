@@ -6,3 +6,4 @@ pyromod
 pytube
 pytz
 requests
+tgcrypto
