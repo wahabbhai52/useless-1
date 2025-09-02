@@ -1,0 +1,8 @@
+aiofiles
+aiohttp
+cloudscraper
+pyrogram
+pyromod
+pytube
+pytz
+requests
